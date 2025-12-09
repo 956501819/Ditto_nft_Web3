@@ -180,13 +180,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-如果你想，我可以继续为你定制：
-
-🔹 **带 Logo 的品牌版 README**
-🔹 **英文 / 中英双语 README**
-🔹 **加入白名单 mint / 上链流程 / FAQ 的高级版 README**
-🔹 **更像顶级 NFT 项目的版式（如 Azuki、BAYC 风格）**
-
-
-需要我升级哪个版本？
-
